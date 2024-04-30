@@ -1,3 +1,1 @@
 - 👋 Olá, sou @brunapl
-- 👀 Estou interessada em Front-end
-- 🌱 Atualmente estou aprendendo JavaScript
